@@ -1,0 +1,22 @@
+#bg {
+  /* background */
+position: absolute;
+width: 550px;
+height: 200px;
+left: 40px;
+top: 40px;
+
+background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+}
+
+#unit{
+  /* light-initial */
+position: absolute;
+width: 550px;
+height: 260px;
+left: 40px;
+top: 200px;
+
+background: #FBF7EE;
+}
+
